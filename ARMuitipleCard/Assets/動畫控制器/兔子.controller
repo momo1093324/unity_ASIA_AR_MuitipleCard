@@ -9,7 +9,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: "\u5154\u5B50 \u79FB\u52D5"
+    m_ConditionEvent: "\u53D7\u50B7"
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 3208069304597365278}
@@ -34,7 +34,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: "\u5154\u5B50\u653B\u64CA"
+    m_ConditionEvent: "\u653B\u64CA"
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -6321742760723340463}
@@ -190,19 +190,19 @@ AnimatorController:
   m_Name: "\u5154\u5B50"
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: "\u5154\u5B50 \u79FB\u52D5"
+  - m_Name: "\u53D7\u50B7"
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
-  - m_Name: "\u5154\u5B50\u653B\u64CA"
+  - m_Name: "\u653B\u64CA"
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
-  - m_Name: "\u5154\u5B50\u6B7B\u4EA1"
+  - m_Name: "\u6B7B\u4EA1"
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -306,7 +306,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: "\u5154\u5B50\u6B7B\u4EA1"
+    m_ConditionEvent: "\u6B7B\u4EA1"
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 6934522421618846556}
